@@ -1,0 +1,27 @@
+{
+  "name": "nihil.js",
+  "version": "1.0.0",
+  "description": "A minimal node.js framework for web applications and more",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahoka/nihil.js.git"
+  },
+  "keywords": [
+    "api",
+    "app",
+    "restful",
+    "rest",
+    "web",
+    "framework"
+  ],
+  "author": "Adam Hoka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahoka/nihil.js/issues"
+  },
+  "homepage": "https://github.com/ahoka/nihil.js#readme"
+}
